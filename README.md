@@ -15,4 +15,12 @@ Leetcode
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
