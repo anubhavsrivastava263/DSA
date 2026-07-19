@@ -37,6 +37,7 @@ Leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -59,4 +60,12 @@ Leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
