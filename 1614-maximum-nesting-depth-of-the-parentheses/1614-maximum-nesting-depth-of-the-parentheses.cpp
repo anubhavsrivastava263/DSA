@@ -9,7 +9,7 @@ public:
                 cnt++;
                 res=max(res,cnt);
             }
-          if(s[i]==')'){
+          else if(s[i]==')'){
             cnt--;
           }
         }
