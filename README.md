@@ -36,6 +36,7 @@ Leetcode
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,13 +77,19 @@ Leetcode
 | [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anubhavsrivastava263/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
