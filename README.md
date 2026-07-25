@@ -9,6 +9,7 @@ Leetcode
 | [0001-two-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Leetcode
 | [0205-isomorphic-strings](https://github.com/anubhavsrivastava263/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anubhavsrivastava263/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Leetcode
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
