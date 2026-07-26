@@ -80,6 +80,7 @@ Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -90,6 +91,7 @@ Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting
 |  |
