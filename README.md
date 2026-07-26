@@ -42,6 +42,7 @@ Leetcode
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Leetcode
 | [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
