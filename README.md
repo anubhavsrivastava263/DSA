@@ -8,6 +8,7 @@ Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
+| [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -125,6 +126,7 @@ Leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavsrivastava263/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
