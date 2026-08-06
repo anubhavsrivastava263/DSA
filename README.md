@@ -14,6 +14,7 @@ Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/anubhavsrivastava263/DSA/tree/master/0367-valid-perfect-square) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/anubhavsrivastava263/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anubhavsrivastava263/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/anubhavsrivastava263/DSA/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/anubhavsrivastava263/DSA/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
