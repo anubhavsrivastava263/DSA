@@ -61,6 +61,7 @@ Leetcode
 | [0070-climbing-stairs](https://github.com/anubhavsrivastava263/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/anubhavsrivastava263/DSA/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Leetcode
 | [0050-powx-n](https://github.com/anubhavsrivastava263/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting
 |  |
