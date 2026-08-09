@@ -13,6 +13,7 @@ Leetcode
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -148,6 +149,7 @@ Leetcode
 | [0040-combination-sum-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
