@@ -11,6 +11,7 @@ Leetcode
 | [0039-combination-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
@@ -24,6 +25,7 @@ Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -32,6 +34,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/anubhavsrivastava263/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anubhavsrivastava263/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
@@ -148,6 +151,7 @@ Leetcode
 | [0039-combination-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -155,4 +159,8 @@ Leetcode
 | ------- |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
