@@ -17,6 +17,7 @@ Leetcode
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -91,6 +92,7 @@ Leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavsrivastava263/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/anubhavsrivastava263/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anubhavsrivastava263/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
@@ -175,4 +177,8 @@ Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
