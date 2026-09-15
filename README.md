@@ -20,6 +20,7 @@ Leetcode
 | [0136-single-number](https://github.com/anubhavsrivastava263/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -105,6 +106,7 @@ Leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavsrivastava263/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/anubhavsrivastava263/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anubhavsrivastava263/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -117,6 +119,7 @@ Leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Leetcode
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anubhavsrivastava263/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
 |  |
@@ -197,6 +201,7 @@ Leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavsrivastava263/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,4 +215,16 @@ Leetcode
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anubhavsrivastava263/DSA/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
