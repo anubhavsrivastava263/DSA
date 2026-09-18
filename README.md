@@ -21,6 +21,7 @@ Leetcode
 | [0136-single-number](https://github.com/anubhavsrivastava263/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/anubhavsrivastava263/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -210,6 +211,7 @@ Leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anubhavsrivastava263/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
