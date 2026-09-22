@@ -17,6 +17,7 @@ Leetcode
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anubhavsrivastava263/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
@@ -71,6 +72,7 @@ Leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anubhavsrivastava263/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -127,6 +129,7 @@ Leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anubhavsrivastava263/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
