@@ -67,6 +67,7 @@ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anubhavsrivastava263/DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -257,4 +258,8 @@ Leetcode
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/anubhavsrivastava263/DSA/tree/master/0881-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
