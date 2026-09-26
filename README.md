@@ -20,6 +20,7 @@ Leetcode
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anubhavsrivastava263/DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anubhavsrivastava263/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/anubhavsrivastava263/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anubhavsrivastava263/DSA/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +68,7 @@ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anubhavsrivastava263/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anubhavsrivastava263/DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -95,6 +97,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/anubhavsrivastava263/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anubhavsrivastava263/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/anubhavsrivastava263/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anubhavsrivastava263/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/anubhavsrivastava263/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/anubhavsrivastava263/DSA/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/1903-largest-odd-number-in-string) |
