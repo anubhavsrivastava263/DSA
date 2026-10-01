@@ -9,6 +9,7 @@ Leetcode
 | [0001-two-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavsrivastava263/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/anubhavsrivastava263/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0040-combination-sum-ii) |
@@ -79,6 +80,7 @@ Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
@@ -141,6 +143,7 @@ Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anubhavsrivastava263/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
