@@ -29,6 +29,7 @@ Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/anubhavsrivastava263/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anubhavsrivastava263/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anubhavsrivastava263/DSA/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/anubhavsrivastava263/DSA/tree/master/0881-boats-to-save-people) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/anubhavsrivastava263/DSA/tree/master/1929-concatenation-of-array) |
@@ -74,6 +75,7 @@ Leetcode
 | [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anubhavsrivastava263/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anubhavsrivastava263/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anubhavsrivastava263/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -186,6 +188,7 @@ Leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/anubhavsrivastava263/DSA/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
