@@ -18,6 +18,7 @@ Leetcode
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anubhavsrivastava263/DSA/tree/master/0136-single-number) |
@@ -39,6 +40,7 @@ Leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavsrivastava263/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/anubhavsrivastava263/DSA/tree/master/0367-valid-perfect-square) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
