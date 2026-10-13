@@ -13,6 +13,7 @@ Leetcode
 | [0037-sudoku-solver](https://github.com/anubhavsrivastava263/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anubhavsrivastava263/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anubhavsrivastava263/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anubhavsrivastava263/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anubhavsrivastava263/DSA/tree/master/0682-baseball-game) |
@@ -88,6 +90,7 @@ Leetcode
 | ------- |
 | [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anubhavsrivastava263/DSA/tree/master/0141-linked-list-cycle) |
@@ -193,12 +196,14 @@ Leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/anubhavsrivastava263/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anubhavsrivastava263/DSA/tree/master/0853-car-fleet) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anubhavsrivastava263/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
