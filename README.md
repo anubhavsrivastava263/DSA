@@ -296,4 +296,5 @@ Leetcode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/anubhavsrivastava263/DSA/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/anubhavsrivastava263/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
