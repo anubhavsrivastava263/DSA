@@ -61,6 +61,7 @@ Leetcode
 | [0008-string-to-integer-atoi](https://github.com/anubhavsrivastava263/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/anubhavsrivastava263/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavsrivastava263/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/anubhavsrivastava263/DSA/tree/master/0049-group-anagrams) |
@@ -78,6 +79,7 @@ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anubhavsrivastava263/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
@@ -299,4 +301,8 @@ Leetcode
 | [0176-second-highest-salary](https://github.com/anubhavsrivastava263/DSA/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anubhavsrivastava263/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/anubhavsrivastava263/DSA/tree/master/0183-customers-who-never-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
