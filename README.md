@@ -292,4 +292,8 @@ Leetcode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anubhavsrivastava263/DSA/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anubhavsrivastava263/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
