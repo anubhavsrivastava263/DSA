@@ -31,6 +31,7 @@ Leetcode
 | [0238-product-of-array-except-self](https://github.com/anubhavsrivastava263/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/anubhavsrivastava263/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anubhavsrivastava263/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anubhavsrivastava263/DSA/tree/master/0739-daily-temperatures) |
@@ -46,6 +47,7 @@ Leetcode
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/anubhavsrivastava263/DSA/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -104,6 +106,7 @@ Leetcode
 | [0151-reverse-words-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavsrivastava263/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/anubhavsrivastava263/DSA/tree/master/0881-boats-to-save-people) |
@@ -164,6 +167,7 @@ Leetcode
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/anubhavsrivastava263/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/anubhavsrivastava263/DSA/tree/master/0881-boats-to-save-people) |
 ## Linked List
@@ -267,6 +271,7 @@ Leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavsrivastava263/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 ## Dancing Links
 |  |
 | ------- |
@@ -275,6 +280,7 @@ Leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
