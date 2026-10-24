@@ -73,6 +73,7 @@ Leetcode
 | [0205-isomorphic-strings](https://github.com/anubhavsrivastava263/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -106,6 +107,7 @@ Leetcode
 | [0151-reverse-words-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavsrivastava263/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -152,6 +154,7 @@ Leetcode
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhavsrivastava263/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anubhavsrivastava263/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anubhavsrivastava263/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
@@ -271,6 +274,7 @@ Leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavsrivastava263/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/anubhavsrivastava263/DSA/tree/master/0658-find-k-closest-elements) |
 ## Dancing Links
 |  |
