@@ -61,6 +61,7 @@ Leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhavsrivastava263/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/anubhavsrivastava263/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/anubhavsrivastava263/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/anubhavsrivastava263/DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/anubhavsrivastava263/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/0020-valid-parentheses) |
@@ -200,6 +201,7 @@ Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhavsrivastava263/DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/anubhavsrivastava263/DSA/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anubhavsrivastava263/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/anubhavsrivastava263/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0143-reorder-list) |
@@ -223,6 +225,7 @@ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anubhavsrivastava263/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
