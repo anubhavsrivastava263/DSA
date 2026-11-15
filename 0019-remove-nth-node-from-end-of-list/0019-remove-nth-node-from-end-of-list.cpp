@@ -1,16 +1,27 @@
 class Solution {
-public:
-ListNode* rec(ListNode* head, int& n){
-    if(!head)return NULL;
-    head->next=rec(head->next,n);
-    n--;
-    if(n==0){
-        return head->next;
+    ListNode* deleteNode(ListNode* head,int pos){
+        if(pos==0){
+            head=head->next;
+            return head;
+        }
+        ListNode* prev=head;
+        for(int i=0;i<pos-1;i++){
+            prev=prev->next;
+
+        }
+        prev->next=prev->next->next;
+        return head;
     }
-    return head;
-}
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
-        return rec(head,n);
+public:
+  ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode* curr=head;
+        int count=0;
+        while(curr!=nullptr){
+            curr=curr->next;
+            count++;
+        }
+        int position =(count-n);
+        return deleteNode(head,position);
     }
     
 };
