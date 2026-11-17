@@ -17,6 +17,7 @@ Leetcode
 | [0049-group-anagrams](https://github.com/anubhavsrivastava263/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anubhavsrivastava263/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/anubhavsrivastava263/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -53,6 +54,7 @@ Leetcode
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anubhavsrivastava263/DSA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/anubhavsrivastava263/DSA/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## String
@@ -229,6 +231,7 @@ Leetcode
 | [0022-generate-parentheses](https://github.com/anubhavsrivastava263/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anubhavsrivastava263/DSA/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/anubhavsrivastava263/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/anubhavsrivastava263/DSA/tree/master/0198-house-robber) |
 ## Memoization
