@@ -10,6 +10,7 @@ Leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavsrivastava263/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/anubhavsrivastava263/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/anubhavsrivastava263/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavsrivastava263/DSA/tree/master/0040-combination-sum-ii) |
@@ -102,6 +103,7 @@ Leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhavsrivastava263/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavsrivastava263/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anubhavsrivastava263/DSA/tree/master/0042-trapping-rain-water) |
@@ -172,6 +174,7 @@ Leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anubhavsrivastava263/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/anubhavsrivastava263/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/anubhavsrivastava263/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anubhavsrivastava263/DSA/tree/master/0242-valid-anagram) |
